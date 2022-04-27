@@ -1,5 +1,8 @@
-Desafio realizado no Bootcamp Impulso da Digital Innovation One.
-Clone da Netflix utilizando:
+#Desafio realizado no Bootcamp Impulso da Digital Innovation One.<br />
+=================================================================
+
+##Clone da Netflix utilizando:
+
 - HTML
 - CSS
 - JavaScript
